@@ -17,6 +17,10 @@ ReactDOM.render(
       name="Proj3"
       img="https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTA4LTE1LTE3LTQ3LTUxLWZhYTljNDQ5ZjI5ZDMyNDdjNjhlMzAxMmUxODNiMGVkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NzY4LCJoZWlnaHQiOjM1NiwiZml0IjoiY292ZXIifX19"
     />
+    <Cell
+      name="Proj4"
+      img="https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTA4LTE1LTE3LTQ3LTUxLWZhYTljNDQ5ZjI5ZDMyNDdjNjhlMzAxMmUxODNiMGVkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NzY4LCJoZWlnaHQiOjM1NiwiZml0IjoiY292ZXIifX19"
+    />
   </div>,
   document.getElementById("root")
 );
